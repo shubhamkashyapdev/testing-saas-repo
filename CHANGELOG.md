@@ -1,3 +1,10 @@
+# 1.0.0 (2024-08-06)
+
+
+### Features
+
+* initial setup ([0555b94](https://github.com/shubhamkashyapdev/testing-saas-repo/commit/0555b945de6d783efa58b30825d020d7ed9cd0c8))
+
 # [1.6.0](https://github.com/ixartz/SaaS-Boilerplate/compare/v1.5.0...v1.6.0) (2024-07-26)
 
 
